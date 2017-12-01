@@ -1,6 +1,0 @@
-[submodule "counterApp"]
-	path = counterApp
-	url = /Users/mohsin/Desktop/iOS_Apps/git/counterApp
-[submodule "todoApp"]
-	path = todoApp
-	url = ../iOS-TodoApp.git
